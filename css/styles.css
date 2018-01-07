@@ -1,4 +1,14 @@
-.flashy {
+  body {
+    background-color: #f1f1f1
+    text-align: center;
+    }
+
+  .flashy {
   color : red;
   font-style: italic;
+  }
+
+  h1 {
+    text-shadow: 2px 2px #ff0000;
+    font-family: 'Alclonica'
   }
